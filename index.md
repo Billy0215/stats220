@@ -12,6 +12,7 @@ you can find the meme images that I made.
 
 Here are the memes I made using R package: [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 ![Dami](https://raw.githubusercontent.com/Billy0215/stats220/main/my_meme.png)
+
 *I made my memes using my cat Dami's pictures, I hope u like him.*
 
 ## code
