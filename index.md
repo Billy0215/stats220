@@ -1,6 +1,6 @@
 # Kia ora te ao!
 
-**Welcome to my test website! **
+**Welcome to my test website!**
 
 ## GitHub repository information
 
