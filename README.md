@@ -1,4 +1,4 @@
 # stats220
 ## Project 1
 
-***Created by Yitong Wang**
+**Created by Yitong Wang**
