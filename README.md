@@ -6,4 +6,4 @@
 
 1. *This is created for my Project 1 in stats220* 
 
-2. *This repo is about meme*
+2. *This repo shows the html I made about memes*
